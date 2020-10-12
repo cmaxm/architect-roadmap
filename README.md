@@ -1,6 +1,6 @@
 # architect-roadmap
 
-![Architect roadmap](./sources/roadmap.jpg)
+![Architect roadmap](./sources/DBrJGDjlWmBD.jpg)
 
 Based on: https://github.com/kamranahmedse/developer-roadmap
 
