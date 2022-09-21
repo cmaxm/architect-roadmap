@@ -406,7 +406,7 @@
                 <mxCell id="m7-xdzquWjCq0PtOlxxY-135" value="SAP" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Lucida Console;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#000000;" parent="1" vertex="1">
                     <mxGeometry x="100" y="1280" width="90" height="40" as="geometry"/>
                 </mxCell>
-                <UserObject label="Data" link="https://www.bookdepository.com/Designing-Data-Intensive-Applications/9781449373320" id="m7-xdzquWjCq0PtOlxxY-139">
+                <UserObject label="Data" link="https://www.bookdepository.com/Designing-Data-Intensive-Applications/9781449373320" linkTarget="_blank" id="m7-xdzquWjCq0PtOlxxY-139">
                     <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Lucida Console;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#000000;" parent="1" vertex="1">
                         <mxGeometry x="210" y="1380" width="90" height="40" as="geometry"/>
                     </mxCell>
