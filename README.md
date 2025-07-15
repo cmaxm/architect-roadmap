@@ -1,7 +1,5 @@
 # architect-roadmap
 
-**See [www.cmaxm.dev](http://www.cmaxm.dev)**
-
 **Opinionated** roadmap of **tangible** technologies to become software (IT or solution) architect. Clickable: **One reliable source** for each technology.
 
 ![Architect roadmap](./sources/Architecture.drawio.svg)
