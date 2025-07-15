@@ -1,19 +1,20 @@
 # architect-roadmap
 
-**Opinionated** roadmap of **tangible** technologies to become software (IT or solution) architect. Clickable: **One reliable source** for each technology.
+**Opinionated** roadmap of **tangible** technologies to become software (IT or solution) architect. 
+**One reliable source** for each technology.
 
 ![Architect roadmap](./sources/Architecture.drawio.svg)
 
 Sources:
 
 - CS
- - Algorithms: https://www.bookdepository.com/Introduction-Algorithms-fourth-edition-Thomas-H-Cormen/9780262046305
+   - Algorithms: https://mitpress.mit.edu/9780262046305/introduction-to-algorithms/
 
 - Code
-  - https://www.bookdepository.com/Clean-Code-Robert-Martin/9780132350884
-  - Java: https://www.bookdepository.com/Effective-Java-Joshua-Bloch/9780134685991
-  - Python: https://www.bookdepository.com/The-Art-Of-Clean-Code-Christian-Mayer/9781718502185
-  - Javascript: https://www.bookdepository.com/Professional-JavaScript-for-Web-Developers-4th-Edition-M-Frisbie/9781119366447
+  - https://www.oreilly.com/library/view/clean-code-a/9780136083238/
+  - https://www.oreilly.com/library/view/the-art-of/9781098141349/
+  - Java: https://www.oreilly.com/library/view/effective-java-3rd/9780134686097/
+  - Javascript: https://www.oreilly.com/library/view/professional-javascript-for/9781119366447/
 
 
 - Design patterns
